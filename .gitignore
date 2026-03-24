@@ -10,6 +10,9 @@ _site/
 xmnn-dll-metadata
 research
 .research/
+.SecureKernel
+SecureKernel/
+./
 
 # Additional Ruby/bundler ignore for when you run: bundle install
 /vendor
