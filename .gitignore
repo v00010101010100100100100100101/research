@@ -12,6 +12,8 @@ research
 .research/
 .SecureKernel
 SecureKernel/
+.DWMApi
+DWMApi/
 ./
 
 # Additional Ruby/bundler ignore for when you run: bundle install
