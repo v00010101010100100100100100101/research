@@ -14,6 +14,8 @@ research
 SecureKernel/
 .DWMApi
 DWMApi/
+.LocationApi
+LocationApi/
 ./
 
 # Additional Ruby/bundler ignore for when you run: bundle install
