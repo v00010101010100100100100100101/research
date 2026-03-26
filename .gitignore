@@ -16,6 +16,8 @@ SecureKernel/
 DWMApi/
 .LocationApi
 LocationApi/
+.winresume
+winresume/
 ./
 
 # Additional Ruby/bundler ignore for when you run: bundle install
