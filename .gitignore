@@ -18,6 +18,8 @@ DWMApi/
 LocationApi/
 .winresume
 winresume/
+.symcryptk
+symcryptk/
 ./
 
 # Additional Ruby/bundler ignore for when you run: bundle install
